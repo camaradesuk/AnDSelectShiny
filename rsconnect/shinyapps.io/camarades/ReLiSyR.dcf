@@ -1,0 +1,12 @@
+name: ReLiSyR
+title: ReLiSyR
+username:
+account: camarades
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620322
+bundleId: 3296841
+url: https://camarades.shinyapps.io/ReLiSyR/
+when: 1592699186.51824
+asMultiple: FALSE
+asStatic: FALSE
